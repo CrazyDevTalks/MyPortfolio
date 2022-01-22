@@ -71,7 +71,60 @@
 .tailwind:hover {
   background: rgba(6, 182, 212, 0.25);
 }
-
+.solidity {
+  border: 2px solid rgb(6, 95, 212);
+}
+.solidity:hover {
+  background: rgba(6, 44, 212, 0.274);
+}
+.css {
+  border: 2px solid rgb(23, 212, 6);
+}
+.css:hover {
+  background: rgba(6, 212, 126, 0.274);
+}
+.javascript {
+  border: 2px solid rgb(212, 6, 202);
+}
+.javascript:hover {
+  background: rgba(205, 6, 212, 0.274);
+}
+.angular {
+  border: 2px solid rgb(198, 212, 6);
+}
+.angular:hover {
+  background: rgba(167, 212, 6, 0.274);
+}
+.robinhood {
+  border: 2px solid rgb(212, 6, 202);
+}
+.robinhood:hover {
+  background: rgba(205, 6, 212, 0.274);
+}
+.ant-ui {
+  border: 2px solid rgb(212, 88, 6);
+}
+.ant-ui:hover {
+  background: rgba(212, 81, 6, 0.219);
+}
+.html {
+  border: 2px solid rgb(61, 6, 212);
+}
+.html:hover {
+  background: rgba(102, 6, 212, 0.274);
+}
+.vue {
+  border: 2px solid rgb(212, 47, 6);
+}
+.vue:hover {
+  background: rgba(212, 64, 6, 0.274);
+}
+.sass {
+  border: 2px solid rgb(6, 212, 133);
+}
+.sass:hover {
+  background: rgba(6, 212, 167, 0.171);
+}
 .react-query {
   border: 2px solid rgb(255, 65, 84);
 }

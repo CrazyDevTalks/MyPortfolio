@@ -1,37 +1,57 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "NFT Marketplace",
+    "image": "https://i.imgur.com/cR5wyQJ.png",
+    "description": "This is a fullstack DApp NFT Marketplace built as a study project to learn more about blockchain and smart contract development. Made with NodeJS, Hardhat, Solidity, ReactJS, NextJS and Vercel.s",
+    "tags": ["next", "node", "tailwind", "solidity", "css", "javascript"],
+    "source_code": "https://github.com/CrazyDevTalks/nft-marketplace",
+    "demo": "https://nft-marketplace-markkop.vercel.app/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "Algorithmic Trader",
+    "image": "https://i.imgur.com/CYeGehM.png",
+    "description": "Web app with TD Ameritrade integration, backtesting, and automated live trading. Nodejs and Angular",
+    "tags": ["angular", "node", "mongodb", "redux", "robinhood", "material-ui"],
+    "source_code": "https://github.com/CrazyDevTalks/angular-algorithmic-trading",
+    "demo": "https://chad-daily.appspot.com/"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "4XChange",
+    "image": "https://i.imgur.com/T7QoE3t.png",
+    "description": "4XChange is a web application for researching foreign currency rates.",
+    "tags": ["next", "node", "mongodb", "redux", "tailwind", "ant-ui"],
+    "source_code": "https://github.com/CrazyDevTalks/Forexchange-integration",
+    "demo": "https://4x-exchange.vercel.app/"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "Taxi Drivers",
+    "image": "https://i.imgur.com/C06qIio.png",
+    "description": "A NextJs Sass Project for taxi driver made with NextJs and Tailwindcss.",
+    "tags": ["next", "node", "tailwind", "css-modules"],
+    "source_code": "https://github.com/CrazyDevTalks/Taxi-Driver-App",
+    "demo": "https://github.com/CrazyDevTalks/Taxi-Driver-App"
+  },
+  {
+    "id": 5,
+    "name": "Super Construction",
+    "image": "https://i.imgur.com/7AgnsQK.png",
+    "description": "A NextJs Sass Project for Construction Company made with NextJs and Tailwindcss.",
+    "tags": ["next", "node", "tailwind", "css-modules"],
+    "source_code": "https://github.com/CrazyDevTalks/Construction-Company",
+    "demo": "https://github.com/CrazyDevTalks/Construction-Company"
+  }
+  ,
+  {
+    "id": 6,
+    "name": "Kudos Company",
+    "image": "https://i.imgur.com/mnnMEWK.png",
+    "description": "Kudos - Company profile website made using Vue.js and Quasar Framework",
+    "tags": ["vue", "node", "tailwind", "css-modules", "html", "sass"],
+    "source_code": "https://github.com/CrazyDevTalks/vue-sass-landingpage",
+    "demo": "https://quasar-company-profile-template.netlify.app/"
   }
 ]

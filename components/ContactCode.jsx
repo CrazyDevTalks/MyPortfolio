@@ -3,53 +3,33 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
+    link: 'DanyloOleksiichuk.me',
+    href: 'https://DanyloOleksiichuk.me',
   },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'crazydev0206@gmail.com',
+    href: 'mailto:crazydev0206@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'CrazyDevTalks',
+    href: 'https://github.com/CrazyDevTalks',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'DanyloOleksiichuk',
+    href: 'https://www.linkedin.com/in/danylo-oleksiichuk-150a072ab',
   },
   {
     social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
-  },
-  {
-    social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
+    link: 'OleksiichukD',
+    href: 'https://twitter.com/OleksiichukD',
   },
   {
     social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
-  },
-  {
-    social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
-  },
-  {
-    social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
+    link: 'danylo0206',
+    href: 'https://t.me/danylo0206',
   },
 ];
 
