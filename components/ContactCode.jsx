@@ -3,7 +3,7 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'DanyloOleksiichuk.me',
+    link: 'Itscrazydev.netlify.app',
     href: 'https://itscrazydev.netlify.app',
   },
   {
