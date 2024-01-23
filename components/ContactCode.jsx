@@ -4,7 +4,7 @@ const contactItems = [
   {
     social: 'website',
     link: 'DanyloOleksiichuk.me',
-    href: 'https://DanyloOleksiichuk.me',
+    href: 'https://itscrazydev.netlify.app',
   },
   {
     social: 'email',
