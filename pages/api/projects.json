@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "NFT Marketplace",
-    "image": "https://ibb.co/W3sXdxP",
+    "image": "https://i.ibb.co/W3sXdxP/nftmarketplace.png",
     "description": "This is a fullstack DApp NFT Marketplace built as a study project to learn more about blockchain and smart contract development. Made with NodeJS, Hardhat, Solidity, ReactJS, NextJS and Vercel.s",
     "tags": ["next", "node", "tailwind", "solidity", "css", "javascript"],
     "source_code": "https://github.com/CrazyDevTalks/nft-marketplace",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Algorithmic Trader",
-    "image": "https://ibb.co/kHHP8CS",
+    "image": "https://i.ibb.co/K008qvr/algorithmic-trader.png",
     "description": "Web app with TD Ameritrade integration, backtesting, and automated live trading. Nodejs and Angular",
     "tags": ["angular", "node", "mongodb", "redux", "robinhood", "material-ui"],
     "source_code": "https://github.com/CrazyDevTalks/angular-algorithmic-trading",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "4XChange",
-    "image": "https://ibb.co/7Cb2L3z",
+    "image": "https://i.ibb.co/MS9MQzh/4x.png",
     "description": "4XChange is a web application for researching foreign currency rates.",
     "tags": ["next", "node", "mongodb", "redux", "tailwind", "ant-ui"],
     "source_code": "https://github.com/CrazyDevTalks/Forexchange-integration",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Taxi Drivers",
-    "image": "https://ibb.co/crtHn27",
+    "image": "https://i.ibb.co/gRwpKtB/image-taxi-app.png",
     "description": "A NextJs Sass Project for taxi driver made with NextJs and Tailwindcss.",
     "tags": ["next", "node", "tailwind", "css-modules"],
     "source_code": "https://github.com/CrazyDevTalks/Taxi-Driver-App",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Super Construction",
-    "image": "https://ibb.co/C82c2CC",
+    "image": "https://i.ibb.co/JtQ1Q66/screenshot-7.png",
     "description": "A NextJs Sass Project for Construction Company made with NextJs and Tailwindcss.",
     "tags": ["next", "node", "tailwind", "css-modules"],
     "source_code": "https://github.com/CrazyDevTalks/Construction-Company",
@@ -48,7 +48,7 @@
   {
     "id": 6,
     "name": "Kudos Company",
-    "image": "https://ibb.co/3Fc5MGb",
+    "image": "https://i.ibb.co/8x9ndTw/kudos.png",
     "description": "Kudos - Company profile website made using Vue.js and Quasar Framework",
     "tags": ["vue", "node", "tailwind", "css-modules", "html", "sass"],
     "source_code": "https://github.com/CrazyDevTalks/vue-sass-landingpage",
