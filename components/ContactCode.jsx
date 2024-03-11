@@ -18,7 +18,7 @@ const contactItems = [
   },
   {
     social: 'linkedin',
-    link: 'linkedin.com/in/vadym-pliushch-b226882b9/',
+    link: 'vadym-pliushch-b226882b9',
     href: 'https://www.linkedin.com/in/vadym-pliushch-b226882b9/',
   },
   // {
