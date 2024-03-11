@@ -16,11 +16,11 @@ const contactItems = [
     link: 'CrazyDevTalks',
     href: 'https://github.com/CrazyDevTalks',
   },
-  // {
-  //   social: 'linkedin',
-  //   link: 'itscrazydev',
-  //   href: 'https://www.linkedin.com/in/danylo-oleksiichuk-150a072ab',
-  // },
+  {
+    social: 'linkedin',
+    link: 'linkedin.com/in/vadym-pliushch-b226882b9/',
+    href: 'https://www.linkedin.com/in/vadym-pliushch-b226882b9/',
+  },
   // {
   //   social: 'twitter',
   //   link: 'OleksiichukD',
