@@ -3,7 +3,7 @@ module.exports = {
     domains: [
       'res.cloudinary.com',
       'avatars.githubusercontent.com',
-      'ibb.co',
+      'i.ibb.co',
     ],
   },
 };
