@@ -3,7 +3,7 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'Itscrazydev.netlify.app',
+    link: 'itscrazydev.netlify.app',
     href: 'https://itscrazydev.netlify.app',
   },
   {
@@ -16,21 +16,21 @@ const contactItems = [
     link: 'CrazyDevTalks',
     href: 'https://github.com/CrazyDevTalks',
   },
-  {
-    social: 'linkedin',
-    link: 'DanyloOleksiichuk',
-    href: 'https://www.linkedin.com/in/danylo-oleksiichuk-150a072ab',
-  },
-  {
-    social: 'twitter',
-    link: 'OleksiichukD',
-    href: 'https://twitter.com/OleksiichukD',
-  },
-  {
-    social: 'telegram',
-    link: 'danylo0206',
-    href: 'https://t.me/danylo0206',
-  },
+  // {
+  //   social: 'linkedin',
+  //   link: 'itscrazydev',
+  //   href: 'https://www.linkedin.com/in/danylo-oleksiichuk-150a072ab',
+  // },
+  // {
+  //   social: 'twitter',
+  //   link: 'OleksiichukD',
+  //   href: 'https://twitter.com/OleksiichukD',
+  // },
+  // {
+  //   social: 'telegram',
+  //   link: 'danylo0206',
+  //   href: 'https://t.me/danylo0206',
+  // },
 ];
 
 const ContactCode = () => {
