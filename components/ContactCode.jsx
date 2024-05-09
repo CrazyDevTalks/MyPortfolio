@@ -18,8 +18,8 @@ const contactItems = [
   },
   {
     social: 'linkedin',
-    link: 'vadym-pliushch-b226882b9',
-    href: 'https://www.linkedin.com/in/vadym-pliushch-b226882b9/',
+    link: 'harwin-dan-b226882b9',
+    href: 'https://www.linkedin.com/in/harwin-dan-b226882b9/',
   },
   // {
   //   social: 'twitter',

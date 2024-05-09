@@ -6,13 +6,13 @@ const CustomHead = ({ title }) => {
       <title>{title}</title>
       <meta
         name="description"
-        content="Vadym Pliushch is an avid full stack web developer building websites and applications you'd love to use"
+        content="Harwin Dan is an avid full stack web developer building websites and applications you'd love to use"
       />
       <meta
         name="keywords"
-        content="Vadym Pliushch, Vadym, Pliushch, blockchain developer ,web developer portfolio, Vadym web developer, Vadym developer, mern stack, Vadym Pliushch portfolio, vscode-portfolio"
+        content="Harwin Dan, Harwin, Dan, blockchain developer ,web developer portfolio, Harwin web developer, Harwin developer, mern stack, Harwin Dan portfolio, vscode-portfolio"
       />
-      <meta property="og:title" content="Vadym Pliushch's Portfolio" />
+      <meta property="og:title" content="Harwin Dan's Portfolio" />
       <meta
         property="og:description"
         content="A full-stack developer building websites that you'd like to use."
@@ -27,5 +27,5 @@ const CustomHead = ({ title }) => {
 export default CustomHead;
 
 CustomHead.defaultProps = {
-  title: 'Vadym Pliushch',
+  title: 'Harwin Dan',
 };

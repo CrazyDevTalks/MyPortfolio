@@ -5,7 +5,7 @@ const AboutPage = () => {
       <div className={styles.container}>
         <h1 className={styles.title}>🚀 Blockchain Fullstack Developer 🌐</h1>
         <p className={styles.text}>
-          Greetings! I'm Vadym Pliushch, a seasoned Blockchain Fullstack Developer with a passion for
+          Greetings! I'm Harwin Dan, a seasoned Blockchain Fullstack Developer with a passion for
           architecting and implementing cutting-edge solutions in the decentralized world.
         </p>
         <p className={styles.text}>

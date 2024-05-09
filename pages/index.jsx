@@ -12,7 +12,7 @@ export default function HomePage() {
         </div>
         <div className={styles.foreground}>
           <div className={styles.content}>
-            <h1 className={styles.name}>Vadym Pliushch</h1>
+            <h1 className={styles.name}>Harwin Dan</h1>
             <h6 className={styles.bio}>Blockchain Full Stack Web Developer</h6>
             <Link href="/projects">
               <button className={styles.button}>View Work</button>
